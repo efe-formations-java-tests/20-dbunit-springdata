@@ -13,7 +13,7 @@
 	<artifactId>20-dbunit-springdata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>20-dbunit-springdata</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Test de DBUnit avec Spring Boot et Spring Data JPA</description>
 
 	<properties>
 		<java.version>1.8</java.version>
