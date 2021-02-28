@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<Livre id="15" auteur="Albert Camus" titre="L'Etranger" nbPages="452"/>
+	<Livre id="16" auteur="Victor Hugo" titre="Les Misérables" nbPages="632"/>
+</dataset>

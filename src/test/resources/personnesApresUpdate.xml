@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<Adresse id="1" codePostal="44000" ville="Nantes"/>
+	<Adresse id="2" codePostal="75001" ville="Paris"/>
+	<Adresse id="3" codePostal="29000" ville="Quimper"/>
+	<Personne id="14" nom="Lebleu" prenom="Marie" age="31" adresse_id="1"/>
+	<Personne id="15" nom="Leorange" prenom="Max" age="42" adresse_id="2"/>
+	<Personne id="16" nom="Leviolet" prenom="Aline" age="32" adresse_id="3"/>
+</dataset>
